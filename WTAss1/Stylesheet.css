@@ -1,0 +1,67 @@
+body{
+	background-color:#eeeeee;
+	border
+}
+.profile-pic{
+	border-radius:50%;
+	margin:25px;
+	width:200px;
+	height:200px;
+	position:absolute;
+	top:8px;
+	right:16px;
+}
+
+p.Mhstyle{
+	text-align:center;
+	font-weight:bold;
+	line-height:2px;
+	padding:20px;
+	font-family:calibri;
+	font-size:40px;
+	font-style:italic;
+	color:#d50b2f;
+	text-decoration:underline;
+	
+}
+p.hstyle{
+	background-color:#aaaaaa;
+	font-weight:bold;
+	line-height:1.5px;
+	padding:20px;
+	font-family:calibri;
+	font-size:20px;
+	font-style:italic;
+}
+p.pstyle{
+	font-weight:normal;
+	color:purple;
+	margin:20px;
+	font-family:arial;
+}
+	
+.nstyle{
+	margin-left:100px;
+	font-weight:lighter;
+	color:#ff6b2f;
+	margin-top:30px;
+	font-family:arial;
+	
+}
+.thstyle{
+	
+	font-weight:lighter;
+	color:navy;
+	margin:30px;
+	font-family:arial;
+	
+}
+.estyle{
+	
+	font-weight:bold;
+	color:#5b6f1f;
+	margin:30px;
+	font-family:arial;
+	margin-left:300px;
+
+}
